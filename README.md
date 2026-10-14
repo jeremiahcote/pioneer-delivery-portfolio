@@ -1,6 +1,6 @@
 # Pioneer Delivery Company: Algorithm Portfolio, Part I (Greedy Algorithms)
 
-CS 413, Analysis of Algorithms
+**Jeremiah Cote**, CS 413, Analysis of Algorithms
 
 ## Language
 

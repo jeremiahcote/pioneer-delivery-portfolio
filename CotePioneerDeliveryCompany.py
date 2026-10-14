@@ -1,6 +1,7 @@
 # =============================================================================
 #  Pioneer Delivery Company - Algorithm Portfolio, Part I: Greedy Algorithms
 #  CS 413 - Analysis of Algorithms
+#  Author: Jeremiah Cote
 #
 #  Task A: Max number of deliveries ONE driver can do      (interval scheduling)
 #  Task B: Min number of drivers to do EVERY delivery      (interval partitioning)
